@@ -1,11 +1,11 @@
-import clientConfig0 from 'E:/Gitee/see-you-ui/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
-import clientConfig1 from 'E:/Gitee/see-you-ui/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
-import clientConfig2 from 'E:/Gitee/see-you-ui/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
-import clientConfig3 from 'E:/Gitee/see-you-ui/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
-import clientConfig4 from 'E:/Gitee/see-you-ui/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
-import clientConfig5 from 'E:/Gitee/see-you-ui/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
-import clientConfig6 from 'E:/Gitee/see-you-ui/node_modules/@vuepress/theme-default/lib/client/config.js'
-import clientConfig7 from 'E:/Gitee/see-you-ui/docs/.vuepress/client.js'
+import clientConfig0 from 'E:/GitHub/SeeYouUI/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
+import clientConfig1 from 'E:/GitHub/SeeYouUI/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
+import clientConfig2 from 'E:/GitHub/SeeYouUI/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
+import clientConfig3 from 'E:/GitHub/SeeYouUI/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
+import clientConfig4 from 'E:/GitHub/SeeYouUI/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
+import clientConfig5 from 'E:/GitHub/SeeYouUI/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
+import clientConfig6 from 'E:/GitHub/SeeYouUI/node_modules/@vuepress/theme-default/lib/client/config.js'
+import clientConfig7 from 'E:/GitHub/SeeYouUI/docs/.vuepress/client.js'
 
 export const clientConfigs = [
   clientConfig0,
