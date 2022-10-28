@@ -3,7 +3,7 @@
 <h3 id="示例" tabindex="-1"><a class="header-anchor" href="#示例" aria-hidden="true">#</a> 示例：</h3>
 <br />
 <m-card   
-  imgSrc="/java.png"
+  imgSrc="../java.png"
   summary="剑指Java面试-Offer直通车  百度资深面试官授课"
 />
 <h3 id="代码" tabindex="-1"><a class="header-anchor" href="#代码" aria-hidden="true">#</a> 代码：</h3>

@@ -4,7 +4,7 @@
 ### 示例：
 <br />
 <m-card   
-  imgSrc="/java.png"
+  imgSrc="../java.png"
   summary="剑指Java面试-Offer直通车  百度资深面试官授课"
 />
 
