@@ -14,8 +14,8 @@ module.exports = {
   theme: defaultTheme({
     navbar: [
       { text: 'Home', link: '/' },
-      { text: 'Github', link: 'https://github.com/Zack921/moocUI' },
-      { text: 'VuePress', link: 'https://vuepress.vuejs.org/' },
+      { text: 'Github', link: 'https://github.com/overflowerhidden/SeeYouUI' },
+      { text: 'VuePress', link: 'https://v2.vuepress.vuejs.org/' },
     ],
     sidebar: [
       {
