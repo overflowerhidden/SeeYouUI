@@ -15,7 +15,7 @@ module.exports = {
     navbar: [
       { text: 'Home', link: '/' },
       { text: 'Github', link: 'https://github.com/overflowerhidden/SeeYouUI' },
-      { text: 'VuePress', link: 'https://v2.vuepress.vuejs.org/' },
+      { text: 'VuePress', link: 'https://v2.vuepress.vuejs.org/zh/' },
     ],
     sidebar: [
       {
